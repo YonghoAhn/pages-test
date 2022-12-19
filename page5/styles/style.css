@@ -6,6 +6,9 @@
 .profile_wrapper {
   display: inline-block;
   margin: 5%;
+  border-style: solid;
+  border-width:6px;
+  background-color:coral;
 }
 
 .profile_content {
